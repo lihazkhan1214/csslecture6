@@ -1,0 +1,51 @@
+/* .container p{
+    color: red;
+} */
+
+/* child selector */
+
+/* div > p{
+    color: blue;
+} */
+
+/* .container + p{
+    color: brown;
+} */
+
+/* div ~ p{
+    color: aqua;
+} */
+
+
+/* universal selector */
+/* *{
+    /* color: rgb(55, 184, 0); */
+    /* font-size: 40px; */
+  
+/* } */ 
+
+/* 
+h1{
+    background-color: red;
+} */
+
+.navbar{
+    background-color: rgb(44, 44, 143);
+    color: white;
+    height: 80px;
+    padding-top: 60px;
+
+
+}
+.navbar li{
+    display:inline;
+    margin-left: 20px;
+}
+
+div a{
+    text-decoration: none;
+    color: brown;
+    background:blue;
+    display:block;
+    margin: 20px;
+}
